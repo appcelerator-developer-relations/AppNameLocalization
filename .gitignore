@@ -1,0 +1,8 @@
+tmp
+.DS_Store
+.fastdev.lock
+build.log
+build/iphone/*
+!build/iphone/.gitignore
+build/android/*
+!build/android/.gitignore
